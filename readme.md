@@ -1,6 +1,6 @@
-# WEIKAV Stars21 Vial firmware (fork of vial-qmk)
+# vial_firmware_weikav_stars21 — WEIKAV Stars21 Vial firmware (fork of vial-qmk)
 
-This fork adds Vial support for the WEIKAV Stars21 tri-mode numpad: [`keyboards/weikav/stella21`](keyboards/weikav/stella21). Prebuilt firmware: [Releases](https://github.com/UnderGate-lab/vial-qmk/releases).
+This fork adds Vial support for the WEIKAV Stars21 tri-mode numpad: [`keyboards/weikav/stella21`](keyboards/weikav/stella21). Prebuilt firmware: [Releases](https://github.com/UnderGate-lab/vial_firmware_weikav_stars21/releases).
 
 > [!WARNING]
 > **Supported hardware: only the original WEIKAV Stars21 (non-Plus) PCB shown below.**
